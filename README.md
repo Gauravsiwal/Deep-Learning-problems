@@ -11,3 +11,9 @@ Titanic dataset solved with deep learning (ANN). [open](https://github.com/Gaura
 House price prediction using ANN. [open](https://github.com/Gauravsiwal/Deep-Learning-problems/blob/fca47976186c262090f1e8e4db44baa40405c5d1/ANN%20on%20Housing%20Dataset.ipynb)
 
 ## CNN
+
+MNNIST dataset CNN model. [Open](https://github.com/Gauravsiwal/Deep-Learning-problems-ANN-CNN-/blob/e0a480de4d177161294378df9ac80684582e2e37/CNN%20MNIST%20final.ipynb)
+
+CIFAR 10 dataset CNN model. [Open](https://github.com/Gauravsiwal/Deep-Learning-problems-ANN-CNN-/blob/e0a480de4d177161294378df9ac80684582e2e37/CNN%20on%20CIFAR%2010%20Dataset.ipynb)
+
+Detecting Pneumonia through X-ray images using CNN. [Open](https://github.com/Gauravsiwal/Deep-Learning-problems-ANN-CNN-/blob/e0a480de4d177161294378df9ac80684582e2e37/Penumonia%20Model.ipynb)
